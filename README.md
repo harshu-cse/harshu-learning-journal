@@ -1,2 +1,5 @@
-# harshu-learning-journal
-My daily learning progress in Python, Data Science &amp; AI
+Day 1:
+- Restarted Python basics
+- Updated LinkedIn profile
+- Started NASSCOM Digital 101
+
